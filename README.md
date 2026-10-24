@@ -10,10 +10,10 @@ A Django REST Framework API that uses JSON Web Tokens (via `djangorestframework-
 
 | Name | Role |
 |------|------|
-| _Member 1_ | _Role_ |
-| _Member 2_ | _Role_ |
-| _Member 3_ | _Role_ |
-| _Member 4_ | _Role_ |
+| _Tarun Jha_ | _Backend & Auth_ |
+| _Aryan Mahesh_ | _API Integration & Caching_ |
+| _Laksh Amarnani_ | _Testing & Demo Script_ |
+| _Samadh Netke_ | _Documentation & Presentation_ |
 
 ## Architecture Diagram
 
